@@ -1,2 +1,0 @@
-# Primax
-FB tool
